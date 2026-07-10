@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (btnCopiar) {
         btnCopiar.addEventListener('click', function() {
             const datos = `
-Nombre: Anatolli Devorak Qwerty
-Empresa: Duckling Productions / Ganzo Island
-Teléfono: +52 951 123 2222
-Correo: contacto@duckling.com
-Web: https://duckling.com
+Nombre: Frida Karissa Ruíz Martínez
+Empresa: Frida Karissa
+Teléfono: +52 951 417 7394
+Correo: frida34rm@institutosanpablo.edu.mx
+Web: https://frida34rm-star.github.io/FridaKarissa/
             `.trim();
 
             // Usar clipboard API con fallback
